@@ -1,6 +1,6 @@
 {
   "name": "ndbg",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Node.js CLI debugging tools",
   "bin": {
     "ndbg": "./bin/ndbg.js"
